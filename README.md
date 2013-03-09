@@ -1,4 +1,4 @@
 poc
 ===
 
-Weemo integration proof-of-concept tools
+This repository is intended to allow third parties to submit their proof of concept integrations.
